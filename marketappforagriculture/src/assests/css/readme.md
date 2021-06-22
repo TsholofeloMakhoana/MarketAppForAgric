@@ -1,0 +1,1 @@
+All the styles here - for clean project and maintable
